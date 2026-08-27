@@ -1,12 +1,12 @@
 # Rota Inteligente: Otimização de Entregas com Algoritmos de IA
 
-Projeto acadêmico da disciplina **Artificial Intelligence Fundamentals**.
+Trabalho disciplina "Artificial Intelligence Fundamentals".
 
 **Aluno:** Mateus Santiago Batista Lima
 
 **Instituição:** Unifecaf 
 
-**Data:** 2026
+Data: Agosto/2026
 
 > Os dados utilizados neste projeto são fictícios e foram criados apenas para demonstrar a solução.
 

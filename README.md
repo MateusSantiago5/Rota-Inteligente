@@ -8,7 +8,6 @@ Trabalho disciplina "Artificial Intelligence Fundamentals".
 
 Data: Agosto/2026
 
-> Os dados utilizados neste projeto são fictícios e foram criados apenas para demonstrar a solução.
 
 ## 1. Descrição do problema
 

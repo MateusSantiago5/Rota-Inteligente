@@ -2,8 +2,8 @@
 
 Projeto acadêmico da disciplina **Artificial Intelligence Fundamentals**.
 
-**Aluno:** [PREENCHER SEU NOME]  
-**Instituição:** [PREENCHER SE NECESSÁRIO]  
+**Aluno:** Mateus Santiago Batista Lima
+**Instituição:** Unifecaf 
 **Data:** 2026
 
 > Os dados utilizados neste projeto são fictícios e foram criados apenas para demonstrar a solução.

@@ -1,0 +1,10 @@
+pedido,no,cliente,x,y,grupo
+P001,B,Cliente 01,2,4,3
+P002,C,Cliente 02,4,4,3
+P003,D,Cliente 03,5,2,3
+P004,F,Cliente 04,-1,3,1
+P005,G,Cliente 05,-3,4,1
+P006,H,Cliente 06,-4,2,1
+P007,I,Cliente 07,-3,-1,1
+P008,K,Cliente 08,3,-2,2
+P009,L,Cliente 09,5,-1,2

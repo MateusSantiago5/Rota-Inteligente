@@ -1,0 +1,4 @@
+zona,entregas,rota_completa,distancia_km
+1,"I, H, G, F",CD -> I -> H -> G -> F -> A -> CD,15.9
+2,"L, K",CD -> E -> L -> K -> J -> CD,14.5
+3,"B, C, D",CD -> A -> B -> C -> D -> E -> CD,15.0

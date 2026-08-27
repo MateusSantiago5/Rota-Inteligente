@@ -1,0 +1,14 @@
+no,nome,x,y,tipo
+CD,Centro de Distribuicao,0,0,base
+A,Praca Central,1,2,passagem
+B,Bairro Norte,2,4,entrega
+C,Jardim Alto,4,4,entrega
+D,Vila Leste,5,2,entrega
+E,Av. Comercial,3,1,passagem
+F,Bairro Noroeste,-1,3,entrega
+G,Jardim Oeste,-3,4,entrega
+H,Vila Oeste,-4,2,entrega
+I,Bairro Sul-Oeste,-3,-1,entrega
+J,Terminal Sul,0,-3,passagem
+K,Vila Sul,3,-2,entrega
+L,Bairro Sudeste,5,-1,entrega

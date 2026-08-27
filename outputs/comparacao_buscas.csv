@@ -1,0 +1,4 @@
+algoritmo,caminho,quantidade_de_nos,distancia_km,observacao
+A*,CD -> J -> K,3,6.4,Considera a distancia das ruas e uma estimativa ate o destino.
+BFS,CD -> E -> K,3,6.6,"Procura pelo menor numero de passos, mas nao prioriza os pesos das ruas."
+DFS,CD -> A -> B -> C -> D -> E -> K,7,15.0,Explora um caminho em profundidade e pode percorrer uma rota maior.

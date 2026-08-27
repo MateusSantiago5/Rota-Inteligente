@@ -1,0 +1,21 @@
+PROJETO ROTA INTELIGENTE - SABOR EXPRESS
+================================================
+
+Entregas agrupadas em 3 zonas pelo K-Means.
+Cada zona recebe uma rota iniciando e terminando no CD.
+
+Zona 1: I, H, G, F | Distancia: 15.90 km
+Rota: CD -> I -> H -> G -> F -> A -> CD
+
+Zona 2: L, K | Distancia: 14.50 km
+Rota: CD -> E -> L -> K -> J -> CD
+
+Zona 3: B, C, D | Distancia: 15.00 km
+Rota: CD -> A -> B -> C -> D -> E -> CD
+
+Distancia total das tres rotas: 45.40 km
+
+Comparacao simples entre A*, BFS e DFS: CD ate K.
+A*: CD -> J -> K | 6.40 km
+BFS: CD -> E -> K | 6.60 km
+DFS: CD -> A -> B -> C -> D -> E -> K | 15.00 km
